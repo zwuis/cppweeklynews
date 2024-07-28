@@ -24,7 +24,7 @@ RSS使用仓库的release RSS [链接](https://github.com/wanghenshui/cppweeklyn
 
 ## 2024
 
-| [161](./posts/161.md) |[162](./posts/162.md) | [163](./posts/163.md) |[164](./posts/164.md) [164修正](./posts/16405.md) | | | | | | |
+| [161](./posts/161.md) |[162](./posts/162.md) | [163](./posts/163.md) |[164](./posts/164.md) [165](./posts/165.md) | | | | | | |
 | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
 | [151](./posts/151.md) | [152](./posts/152.md) | [153](./posts/153.md) | [154](./posts/154.md) | [155](./posts/155.md) | [156](./posts/156.md) | [157](./posts/157.md) | [158](./posts/158.md) | [159](./posts/159.md) | [160](./posts/160.md) |
 |                    |                    |                    |                    | [145](./posts/145.md) | [146](./posts/146.md) | [147](./posts/147.md) | [148](./posts/148.md) | [149](./posts/149.md) | [150](./posts/150.md) |
@@ -92,14 +92,14 @@ RSS使用仓库的release RSS [链接](https://github.com/wanghenshui/cppweeklyn
 - Yin x2
 - YellyHornby x3
 - 404 x2
-- Amnesia x5
+- Amnesia x6
 - fengyiee木马
 - 陈青松
 - 黄亮Anthony x13
 - Captain
 - Anien
 - jerry
-- HNY x20
+- HNY x21
 - CHENL
 - 沧海
 - 彩虹蛇皮虾
@@ -111,3 +111,4 @@ RSS使用仓库的release RSS [链接](https://github.com/wanghenshui/cppweeklyn
 - 岚岚路
 - LH_mouse x 666
 - 终盛 x2
+- Damon
